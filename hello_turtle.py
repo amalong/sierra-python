@@ -1,3 +1,5 @@
+#here is some starter code for your hello-turtle project.  Remember ... Use, Modify, AND Create!
+
 import turtle
 
 my_turtle = turtle.Turtle()   # create a turtle
